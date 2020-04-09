@@ -1,0 +1,4 @@
+[submodule "client"]
+	path = client
+	url = git@github.com:link-u/ansible-tools_client.git
+	branch = master
